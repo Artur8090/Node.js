@@ -19,9 +19,9 @@ emitter.emit('start', weekdays)
 */
 let HandlerClick = require('events');
 let click = new HandlerClick();
-let eventName = 'yes'
+let eventName = {event : "click"}
 click.on(eventName,() =>{
-    console.log('Hello')
-})
+    console.log(eventName.event)
+})  
 
-click.emit('yes')
+click.emit(eventName, 'Вызов события клик')
