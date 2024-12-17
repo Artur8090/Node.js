@@ -1,0 +1,13 @@
+Date - Tue, 17 Dec 2024 17:44:28 GMT | Method - GET | URL - /forbidden | Status - 403
+Date - Tue, 17 Dec 2024 17:44:42 GMT | Method - GET | URL - /forbidden | Status - 403
+Date - Tue, 17 Dec 2024 17:44:42 GMT | Method - GET | URL - /forbidden | Status - 403
+Date - Tue, 17 Dec 2024 17:45:22 GMT | Method - GET | URL - /forbidden | Status - 403
+Date - Tue, 17 Dec 2024 17:45:22 GMT | Method - GET | URL - /forbidden | Status - 403
+Date - Tue, 17 Dec 2024 17:45:22 GMT | Method - GET | URL - /forbidden | Status - 403
+Date - Tue, 17 Dec 2024 17:52:37 GMT | Method - GET | URL - /forbidden | Status - 403
+Date - Tue, 17 Dec 2024 17:52:38 GMT | Method - GET | URL - /forbidden | Status - 403
+Date - Tue, 17 Dec 2024 17:53:46 GMT | Method - GET | URL - /forbidden | Status - 403
+Date - Tue, 17 Dec 2024 17:53:46 GMT | Method - GET | URL - /forbidden | Status - 403
+Date - Tue, 17 Dec 2024 17:53:50 GMT | Method - GET | URL - / | Status - 200
+Date - Tue, 17 Dec 2024 17:53:50 GMT | Method - GET | URL - /stylesheets/style.css | Status - 404
+Date - Tue, 17 Dec 2024 17:55:24 GMT | Method - GET | URL - / | Status - 304
